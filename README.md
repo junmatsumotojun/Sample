@@ -1,1 +1,1 @@
-Sample
+Bolt.newで作成
